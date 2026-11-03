@@ -1,0 +1,14 @@
+{
+  "keywords": [
+    "本地大模型 实测",
+    "模型评测 实测",
+    "AI Agent 实测",
+    "MCP 教程",
+    "显卡 跑大模型 实测",
+    "AI 编程 实测 踩坑"
+  ],
+  "waitMs": 4500,
+  "perKeyword": 8,
+  "detailWaitMs": 2500,
+  "space": "zhihu collect"
+}

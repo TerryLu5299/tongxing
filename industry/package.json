@@ -1,0 +1,8 @@
+{
+  "name": "@tongxing/industry",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./*": "./*.ts"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@tongxing/select-hourly",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./*": "./*.ts"
+  },
+  "dependencies": {
+    "@tongxing/backend": "*"
+  }
+}

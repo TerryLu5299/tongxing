@@ -1,0 +1,71 @@
+{
+  "comment": "B站评测白名单初版（简拟，等老鹿圈选）。category: model=模型评测对比, hardware=硬件芯片评测, app=AI应用综合",
+  "whitelist": [
+    {
+      "mid": "612932327",
+      "name": "老石谈芯",
+      "category": "hardware",
+      "note": "AI芯片/架构，56.8万粉"
+    },
+    {
+      "mid": "477782158",
+      "name": "电丸科技AK",
+      "category": "hardware",
+      "note": "数码硬件评测，61.8万粉"
+    },
+    {
+      "mid": "4401694",
+      "name": "林亦LYi",
+      "category": "app",
+      "note": "AI+科技综合，139万粉"
+    },
+    {
+      "mid": "20259914",
+      "name": "稚晖君",
+      "category": "hardware",
+      "note": "机器人/AI硬件，283万粉"
+    },
+    {
+      "mid": "3706952993475055",
+      "name": "碳基生物退役指南",
+      "category": "model",
+      "note": "本地大模型横评13款"
+    },
+    {
+      "mid": "2091963559",
+      "name": "秋秋爱吃鱼肉",
+      "category": "model",
+      "note": "主流大模型锐评"
+    },
+    {
+      "mid": "17127081",
+      "name": "gxinap",
+      "category": "model",
+      "note": "国内大模型横向比较"
+    },
+    {
+      "mid": "3546883108637239",
+      "name": "大模型观察员",
+      "category": "app",
+      "note": "本地部署/Ollama教程"
+    },
+    {
+      "mid": "3546663834618256",
+      "name": "AI智能体搭建",
+      "category": "app",
+      "note": "本地知识库/智能体"
+    },
+    {
+      "mid": "3546748815411393",
+      "name": "TGLTommyAI",
+      "category": "model",
+      "note": "多模态大模型算法实战"
+    },
+    {
+      "mid": "3546801464412967",
+      "name": "踢姆裤客",
+      "category": "app",
+      "note": "移动端本地部署"
+    }
+  ]
+}
