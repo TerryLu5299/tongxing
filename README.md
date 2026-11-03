@@ -7,7 +7,7 @@
 > 项目已停止运行，代码留档开源，不再维护。上游版权归 **数字生命卡兹克**，本项目沿用 MIT，
 > 署名与许可见 [LICENSE](LICENSE) 与 [NOTICE](NOTICE)。
 >
-> —— 鹿群（GitHub: [TerryLu5299](https://github.com/TerryLu5299)）
+> —— terrylu（[TerryLu5299](https://github.com/TerryLu5299)）
 
 <p align="center">
   <picture>
